@@ -18,10 +18,11 @@ GitHub: danielappierto
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> Objectives, briefly </b>
 </p>
-1. obtain, explore, groom, visualize, and analyze data 
+1. use python to obtain, explore, groom, visualize, and analyze data 
 2. make all of that reproducible, reusable, and shareable 
+3. apply those skills to problems in the finance domain
 
-(1) puts the world of data at your fingertips, (2) makes the essential task of collaboration &mdash; a must in (complicated and large) real-world projects &mdash; easier. We will work in **Python**, and work on applying the lessons to financial problems. 
+(1) puts the world of data at your fingertips, (2) makes the essential task of collaboration &mdash; a must in (complicated and large) real-world projects &mdash; easier.
 
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> Class Meetings </b>
