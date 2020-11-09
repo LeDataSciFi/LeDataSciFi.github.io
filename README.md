@@ -2,11 +2,12 @@
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
   <b>Spring 2020</b>
 <br>
-  <b>Professor Donald Bowen  </b> <a href="https://bowen.finance">(My personal website)</a>
+  <b>Professor Donald Bowen  </b> 
 </p>
 Office: RBC 460  <br>
 Email: deb219 <br>
-GitHub: donbowen
+GitHub: donbowen <br>
+Personal website: <a href="https://bowen.finance"> https://bowen.finance</a>
 <br>
 <p style="font-size:18px; line-height:24px; color:#666666; margin:0 0 10px;">  <!-- makes it like H3 -->
  <b> TA - Daniel Appierto  </b>
